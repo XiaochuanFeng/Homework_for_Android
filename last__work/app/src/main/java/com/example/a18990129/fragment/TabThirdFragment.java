@@ -82,7 +82,6 @@ public class TabThirdFragment extends Fragment implements View.OnClickListener, 
     public void onClick(View v) {
         if (v.getId() == R.id.btn_shopping_channel) { // 点击了“商场”按钮
             // 跳转到手机商场页面
-            //These codes are from Peter Pang.
             Intent intent = new Intent(mContext, TabFragmentActivity.class);
             startActivity(intent);
         } else if (v.getId() == R.id.btn_settle) { // 点击了“结算”按钮

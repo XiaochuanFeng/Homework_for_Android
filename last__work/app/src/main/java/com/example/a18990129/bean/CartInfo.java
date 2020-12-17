@@ -19,4 +19,3 @@ public class CartInfo {
         goods = new GoodsInfo2();
     }
 }
-//These codes are from Peter Pang.

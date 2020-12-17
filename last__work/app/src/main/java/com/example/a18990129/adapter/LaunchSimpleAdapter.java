@@ -83,4 +83,3 @@ public class LaunchSimpleAdapter extends PagerAdapter {
         return mViewList.get(position);
     }
 }
-//These codes are from Peter Pang.

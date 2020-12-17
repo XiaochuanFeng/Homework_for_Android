@@ -42,4 +42,3 @@ public class DateUtil {
         return sdf.format(new_date);
     }
 }
-//These codes are from Peter Pang.

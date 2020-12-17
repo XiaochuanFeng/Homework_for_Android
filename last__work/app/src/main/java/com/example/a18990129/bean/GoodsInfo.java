@@ -97,7 +97,6 @@ public class GoodsInfo {
         ArrayList<GoodsInfo> appiArray = new ArrayList<GoodsInfo>();
         for (int i = 0; i < appiImageArray.length; i++) {
             appiArray.add(new GoodsInfo(appiImageArray[i], appiTitleArray[i], null));
-            //These codes are from Peter Pang.
         }
         return appiArray;
     }

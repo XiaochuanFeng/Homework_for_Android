@@ -85,4 +85,4 @@ public class CartAdapter extends BaseAdapter {
         public TextView tv_price; // 声明商品单价的文本视图对象
         public TextView tv_sum; // 声明商品总价的文本视图对象
     }
-}//These codes are from Peter Pang.
+}

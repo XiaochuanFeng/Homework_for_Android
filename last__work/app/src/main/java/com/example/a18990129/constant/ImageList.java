@@ -15,4 +15,3 @@ public class ImageList {
         return imageList;
     }
 }
-//These codes are from Peter Pang.
